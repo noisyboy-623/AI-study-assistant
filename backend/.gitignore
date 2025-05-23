@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# IDE/OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs or databases
+*.log
+*.sqlite3
+*.db
+*.tmp
