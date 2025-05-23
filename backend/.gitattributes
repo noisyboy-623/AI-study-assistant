@@ -1,0 +1,13 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Force .env.example to always use LF endings (Unix-style)
+*.example text eol=lf
+
+# Optional: force Python scripts to use LF endings
+*.py text eol=lf
+
+# Optional: keep binary files unchanged
+*.png binary
+*.jpg binary
+*.gif binary
